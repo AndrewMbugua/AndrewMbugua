@@ -2,7 +2,7 @@
 
 My name is Andrew Precious from Kenya :kenya:
 
-- 🌱 I’m currently learning ...
+### - 🌱 I’m currently learning ...
 
                    - Cloud Engineering:
                                       * Gooogle Cloud.
@@ -15,7 +15,7 @@ My name is Andrew Precious from Kenya :kenya:
                    - C , Golang, Full-Stack Ruby on Rails.
 
 
-- 🌱 Projects worked on ...
+### - 🌱 Projects worked on ...
 
 #### DevOps based projects:
 1. [Ansible-infrastructure-development-and-deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
