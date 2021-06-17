@@ -30,7 +30,7 @@ I am your favorite next door techie.It sure would be nice if we connected :smile
 
 
                                                         
-| [E-mail](andrewmbugua388@gmail.com)   |   [Medium profile](https://medium.com/@andrewmbugua388)   |   [Twitter profile](https://twitter.com/DarkseidCodes)
+| [E-mail](andrewmbugua388@gmail.com)   |   [Medium profile](https://medium.com/@andrewmbugua388)   |   [Twitter profile](https://twitter.com/DarkseidCodes)  |  [LinkedIn](https://www.linkedin.com/in/andrew-mbugua-28a83518b/)
                                                         
 
 :star:
