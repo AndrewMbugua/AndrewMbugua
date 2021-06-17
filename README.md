@@ -1,16 +1,44 @@
 ### Hi there 👋
 
-<!--
-**AndrewMbugua/AndrewMbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrew Precious from Kenya :kenya:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                   - Cloud Engineering:
+                   * Gooogle Cloud.
+                   * Huawei Cloud
+                   
+                   - Mobile & Network Security.
+                   
+                   - Shell Scripting
+                   
+                   - C , Golang, Full-Stack Ruby on Rails.
+
+
+- 🌱 Projects worked on ...
+
+#### DevOps based projects:
+1. [Ansible-infrastructure-development-and-deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
+
+#### Security Based projects:
+
+ 1. [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)
+
+
+                    
+I am your favorite next door techie.It sure would be nice if we connected :smiley:
+
+:e-mail: Reach me: at andrewmbugua388@gmail.com
+
+*Medium profile* (https://medium.com/@andrewmbugua388)
+
+*Twitter profile* (https://twitter.com/DarkseidCodes)
+
+:star:
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AndrewMbugua)](https://github.com/AndrewMbugua/github-contribution-stats/)
+
+
+## Cheerio.
+
+![](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)
