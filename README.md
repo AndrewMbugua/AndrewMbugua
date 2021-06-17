@@ -28,11 +28,10 @@ My name is Andrew Precious from Kenya :kenya:
                     
 I am your favorite next door techie.It sure would be nice if we connected :smiley:
 
-:e-mail: Reach me: at andrewmbugua388@gmail.com
 
-*Medium profile* (https://medium.com/@andrewmbugua388)
-
-*Twitter profile* (https://twitter.com/DarkseidCodes)
+                                                        
+| [E-mail](andrewmbugua388@gmail.com)   |   [Medium profile](https://medium.com/@andrewmbugua388)   |   [Twitter profile](https://twitter.com/DarkseidCodes)
+                                                        
 
 :star:
 
