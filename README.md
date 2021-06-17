@@ -20,7 +20,7 @@ My name is Andrew Precious from Kenya :kenya:
 ## - 🌱 Projects worked on ...
 
 #### DevOps based projects:
-1. [Ansible-infrastructure-development-and-deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
+1. [Ansible infrastructure development and deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
 
 #### Security Based projects:
 
