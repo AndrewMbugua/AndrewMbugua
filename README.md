@@ -5,8 +5,8 @@ My name is Andrew Precious from Kenya :kenya:
 - 🌱 I’m currently learning ...
 
                    - Cloud Engineering:
-                   * Gooogle Cloud.
-                   * Huawei Cloud
+                                      * Gooogle Cloud.
+                                      * Huawei Cloud.
                    
                    - Mobile & Network Security.
                    
