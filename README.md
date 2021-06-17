@@ -10,7 +10,7 @@ My name is Andrew Precious from Kenya :kenya:
                    
                    - Mobile & Network Security.
                    
-                   - Shell Scripting
+                   - Shell Scripting.
                    
                    - C , Golang, Full-Stack Ruby on Rails.
 
