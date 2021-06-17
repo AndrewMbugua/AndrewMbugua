@@ -24,7 +24,7 @@ My name is Andrew Precious from Kenya :kenya:
 
 #### Security Based projects:
 
- 1. [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)
+ 1. [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)    🛠️ 🛠️ [work in progress] 🛠️ 🛠️
 
 
                     
