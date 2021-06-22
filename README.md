@@ -7,7 +7,7 @@ My name is Andrew Precious from Kenya :kenya:
                    - Computer Science @ Kisii University.                            Side Skills & Hobbies:
                                                                                            - Forex Trading.
                    - Cloud Engineering:                                                    - Novel Reading.
-                                      * Gooogle Cloud.                                     - Research & Development.
+                                      * Google Cloud.                                     - Research & Development.
                                       * Huawei Cloud.
                    
                    - Mobile & Network Security.
