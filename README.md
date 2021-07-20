@@ -24,7 +24,7 @@ My name is Andrew Precious from Kenya :kenya:
 
 Docker Images:
 
-1. [Huawei Cloud Object Storage Service SDK](https://hub.docker.com/repository/docker/andrewmbugua/huawei_cloud_obs_sdk)
+- [Huawei Cloud Object Storage Service SDK](https://hub.docker.com/repository/docker/andrewmbugua/huawei_cloud_obs_sdk)
 
 ### Security Based projects:
 
