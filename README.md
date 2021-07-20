@@ -19,10 +19,14 @@ My name is Andrew Precious from Kenya :kenya:
 
 ## - 🌱 Projects worked on ...
 
-#### DevOps based projects:
+### DevOps based projects:
 1. [Ansible infrastructure development and deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
 
-#### Security Based projects:
+Docker Images:
+
+1. [Huawei Cloud Object Storage Service SDK](https://hub.docker.com/repository/docker/andrewmbugua/huawei_cloud_obs_sdk)
+
+### Security Based projects:
 
  1. [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)    🛠️ 🛠️ [work in progress] 🛠️ 🛠️
 
