@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Precious from Kenya :kenya:
+### My name is Andrew Precious from Kenya :kenya:
 
 ## - 🌱 I’m currently learning ...
                     
