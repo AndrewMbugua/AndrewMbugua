@@ -5,8 +5,8 @@
 ## - 🌱 I’m currently learning ...
                     
                    - Computer Science @ Kisii University.                            Side Skills & Hobbies:
-                                                                                           - Forex Trading.
-                   - Cloud Engineering:                                                    - Novel Reading.
+                                                                                          - Forex Trading.
+                   - Cloud Engineering:                                                   - Novel Reading.
                                       * Google Cloud.                                     - Research & Development.
                                       * Huawei Cloud.
                    
@@ -14,7 +14,7 @@
                    
                    - Shell Scripting.
                    
-                   - C , Golang, Full-Stack Ruby on Rails.
+                   - C , Golang, Full-Stack React.
                    
 
 ## - 🌱 Projects worked on ...
