@@ -31,6 +31,8 @@
  1. [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)    🛠️ 🛠️ [work in progress] 🛠️ 🛠️
 
 
+### Pet Projects:
+1. [Linux From Scratch](https://github.com/AndrewMbugua/Sahara)
 
 
                     
