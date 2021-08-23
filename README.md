@@ -12,9 +12,11 @@
                    
                    - Mobile & Network Security.
                    
+                   - Data Science.
+                   
                    - Shell Scripting.
                    
-                   - C , Golang, Full-Stack React.
+                   - C++ , Golang, Full-Stack React.
                    
 
 ## - 🌱 Projects worked on ...
