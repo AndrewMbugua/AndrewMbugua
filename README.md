@@ -8,7 +8,7 @@
                                                                                           - Forex Trading.
                    - Cloud Engineering:                                                   - Novel Reading.
                                       * Google Cloud.                                     - Research & Development.
-                                      * Huawei Cloud.
+                                      * AWS Cloud.
                    
                    - Mobile & Network Security.
                    
@@ -16,7 +16,7 @@
                    
                    - Shell Scripting.
                    
-                   - C++ , Golang, Full-Stack React.
+                   - C,C++ , Golang, Full-Stack React.
                    
 
 ## - 🌱 Projects worked on ...
