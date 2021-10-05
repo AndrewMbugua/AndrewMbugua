@@ -12,7 +12,7 @@
                    
                    - Mobile & Network Security.
                    
-                   - Data Science.
+                   - Data Science with Python.
                    
                    - Shell Scripting.
                    
