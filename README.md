@@ -7,16 +7,13 @@
                    - Computer Science @ Kisii University.                            Side Skills & Hobbies:
                                                                                           - Forex Trading.
                    - Cloud Engineering:                                                   - Novel Reading.
-                                      * Google Cloud.                                     - Research & Development.
                                       * AWS Cloud.
                    
                    - Mobile & Network Security.
-                   
-                   - Data Science with Python.
-                   
+                                      
                    - Shell Scripting.
                    
-                   - C,C++ , Golang, Full-Stack React.
+                   - C,C++ ,Elixir
                    
 
 ## - 🌱 Projects worked on ...
