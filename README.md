@@ -13,7 +13,7 @@
                                       
                    - Shell Scripting.
                    
-                   - C,C++ ,Elixir
+                   - C,Rust,Elixir
                    
 
 ## - 🌱 Projects worked on ...
