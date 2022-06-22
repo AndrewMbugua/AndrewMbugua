@@ -20,7 +20,7 @@
 ## - 🌱 Projects worked on ...
 
 ### Blog Site
-1. [Static Hugo Blog Site ](https://andrewstechblog.netlify.app/)
+1. [Static Blog Site ](https://andrewmbugua.github.io/)
 
 ### DevOps based projects:
 1. [Ansible infrastructure development and deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
