@@ -7,30 +7,33 @@
                    - Computer Science @ Kisii University.                            
                                                                                      
                    - Cloud Compting:                                                 
-                                   * AWS Cloud.
+                                   - AWS Cloud.
                    
                    - Mobile & Network Security.
                                       
                    - Bash Scripting.
                    
-                   - C,Rust,Elixir.
+                   - Languages:
+                              - C.
+                              - Rust.
+                              - Elixir.
                    
-                   - Networking.
-                              * CCNA.
+                   - Networking:
+                               - CCNA.
                    
-## - 🌱 Projects worked on ...
+##  🌱 Projects worked on ...
 
 ### Personal Sites
-1. [Portfolio](https://andrewmbugua.netlify.app/)
+1. [Personal Portfolio](https://andrewmbugua.netlify.app/)
 2. [Static Blog Site ](https://andrewmbugua.github.io/)
 
 ### CLI tools & applications
 1. [CLI Candlestick Chart Visualization](https://github.com/AndrewMbugua/cli-candlestick-chart)
 2. [Network adapter](https://github.com/AndrewMbugua/network_applications/tree/main/network-adapters)
-3. [TCP packet rust crate](https://crates.io/crates/tcp_packet)
+3. [Rust Crate](https://crates.io/crates/tcp_packet)
 
 ### DevOps based projects:
-1. [Ansible infrastructure development and deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
+- [Ansible infrastructure development and deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
 
 **Docker Images:**
 
@@ -38,10 +41,10 @@
 
 ### Security Based projects:
 
- 1. [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)    🛠️ 🛠️ [work in progress] 🛠️ 🛠️
+ - [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)    🛠️ 🛠️ [work in progress] 🛠️ 🛠️
  
 ### Pet Projects:
-1. [Linux From Scratch](https://github.com/AndrewMbugua/Sahara)
+- [Linux From Scratch](https://github.com/AndrewMbugua/Sahara)
 
 
                     
