@@ -4,23 +4,30 @@
 
 ## - 🌱 I’m currently learning ...
                     
-                   - Computer Science @ Kisii University.                            Side Skills & Hobbies:
-                                                                                          - Forex Trading.
-                   - Cloud Engineering:                                                   - Novel Reading.
-                                      * AWS Cloud.
+                   - Computer Science @ Kisii University.                            
+                                                                                     
+                   - Cloud Compting:                                                 
+                                   * AWS Cloud.
                    
                    - Mobile & Network Security.
                                       
-                   - Shell Scripting.
+                   - Bash Scripting.
                    
-                   - C,Rust,Elixir
+                   - C,Rust,Elixir.
                    
                    - Networking.
+                              * CCNA.
                    
 ## - 🌱 Projects worked on ...
 
-### Blog Site
-1. [Static Blog Site ](https://andrewmbugua.github.io/)
+### Personal Sites
+1. [Portfolio](https://andrewmbugua.netlify.app/)
+2. [Static Blog Site ](https://andrewmbugua.github.io/)
+
+### CLI tools & applications
+1. [CLI Candlestick Chart Visualization](https://github.com/AndrewMbugua/cli-candlestick-chart)
+2. [Network adapter](https://github.com/AndrewMbugua/network_applications/tree/main/network-adapters)
+3. [TCP packet rust crate](https://crates.io/crates/tcp_packet)
 
 ### DevOps based projects:
 1. [Ansible infrastructure development and deployment](https://github.com/Andrews-Projects/Ansible-infrastructure-development-and-deployment)
@@ -32,8 +39,7 @@
 ### Security Based projects:
 
  1. [Security Operations Center](https://github.com/Andrews-Projects/Security-Operations-Center)    🛠️ 🛠️ [work in progress] 🛠️ 🛠️
-
-
+ 
 ### Pet Projects:
 1. [Linux From Scratch](https://github.com/AndrewMbugua/Sahara)
 
