@@ -15,6 +15,7 @@
                    
                    - Languages:
                               - C.
+                              - Python
                               - Golang.
                               - Rust.
                               - Elixir.
@@ -46,6 +47,10 @@
  
 ### Pet Projects:
 - [Linux From Scratch](https://github.com/AndrewMbugua/Sahara)
+
+
+### Python Related:
+- [Sign_Language_Interpreter](https://github.com/AndrewMbugua/Sign_Language_Interpreter)
 
 
                     
