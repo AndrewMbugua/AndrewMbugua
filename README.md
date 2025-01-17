@@ -5,10 +5,7 @@
 ## - 🌱 I’m currently learning ...
                     
                    - Computer Science @ Kisii University.                            
-                                                                                     
-                   - Cloud Compting:                                                 
-                                   - AWS Cloud.
-                   
+                                                                                                       
                    - Mobile & Network Security.
                                       
                    - Bash Scripting.
