@@ -12,8 +12,8 @@
                    
                    - Languages:
                               - C.
-                              - Python
                               - Golang.
+                              - Python.
                               - Rust.
                               - Elixir.
                    
