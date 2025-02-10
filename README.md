@@ -13,7 +13,6 @@
                    - Languages:
                               - C.
                               - Golang.
-                              - Python.
                               - Rust.
                               - Elixir.
                    
